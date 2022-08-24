@@ -1,0 +1,17 @@
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Persistance\bin\Debug\net6.0\LastGrind.Persistance.deps.json
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Persistance\bin\Debug\net6.0\LastGrind.Persistance.dll
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Persistance\bin\Debug\net6.0\LastGrind.Persistance.pdb
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Persistance\bin\Debug\net6.0\LastGrind.Domain.dll
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Persistance\bin\Debug\net6.0\LastGrind.Domain.pdb
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Persistance\obj\Debug\net6.0\LastGrind.Persistance.csproj.AssemblyReference.cache
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Persistance\obj\Debug\net6.0\LastGrind.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Persistance\obj\Debug\net6.0\LastGrind.Persistance.AssemblyInfoInputs.cache
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Persistance\obj\Debug\net6.0\LastGrind.Persistance.AssemblyInfo.cs
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Persistance\obj\Debug\net6.0\LastGrind.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Persistance\obj\Debug\net6.0\LastGrind.Persistance.csproj.CopyComplete
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Persistance\obj\Debug\net6.0\LastGrind.Persistance.dll
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Persistance\obj\Debug\net6.0\refint\LastGrind.Persistance.dll
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Persistance\obj\Debug\net6.0\LastGrind.Persistance.pdb
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Persistance\obj\Debug\net6.0\ref\LastGrind.Persistance.dll
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Persistance\bin\Debug\net6.0\LastGrind.Application.dll
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Persistance\bin\Debug\net6.0\LastGrind.Application.pdb

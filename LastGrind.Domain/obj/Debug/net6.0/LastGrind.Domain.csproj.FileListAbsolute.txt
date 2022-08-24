@@ -1,0 +1,12 @@
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Domain\bin\Debug\net6.0\LastGrind.Domain.deps.json
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Domain\bin\Debug\net6.0\LastGrind.Domain.dll
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Domain\bin\Debug\net6.0\LastGrind.Domain.pdb
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Domain\obj\Debug\net6.0\LastGrind.Domain.csproj.AssemblyReference.cache
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Domain\obj\Debug\net6.0\LastGrind.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Domain\obj\Debug\net6.0\LastGrind.Domain.AssemblyInfoInputs.cache
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Domain\obj\Debug\net6.0\LastGrind.Domain.AssemblyInfo.cs
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Domain\obj\Debug\net6.0\LastGrind.Domain.csproj.CoreCompileInputs.cache
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Domain\obj\Debug\net6.0\LastGrind.Domain.dll
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Domain\obj\Debug\net6.0\refint\LastGrind.Domain.dll
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Domain\obj\Debug\net6.0\LastGrind.Domain.pdb
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Domain\obj\Debug\net6.0\ref\LastGrind.Domain.dll

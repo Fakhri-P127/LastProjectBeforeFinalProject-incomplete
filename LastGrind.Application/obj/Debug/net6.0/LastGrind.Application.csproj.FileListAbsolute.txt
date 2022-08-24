@@ -1,0 +1,15 @@
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Application\bin\Debug\net6.0\LastGrind.Application.deps.json
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Application\bin\Debug\net6.0\LastGrind.Application.dll
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Application\bin\Debug\net6.0\LastGrind.Application.pdb
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Application\bin\Debug\net6.0\LastGrind.Domain.dll
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Application\bin\Debug\net6.0\LastGrind.Domain.pdb
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Application\obj\Debug\net6.0\LastGrind.Application.csproj.AssemblyReference.cache
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Application\obj\Debug\net6.0\LastGrind.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Application\obj\Debug\net6.0\LastGrind.Application.AssemblyInfoInputs.cache
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Application\obj\Debug\net6.0\LastGrind.Application.AssemblyInfo.cs
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Application\obj\Debug\net6.0\LastGrind.Application.csproj.CoreCompileInputs.cache
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Application\obj\Debug\net6.0\LastGrind.Application.csproj.CopyComplete
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Application\obj\Debug\net6.0\LastGrind.Application.dll
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Application\obj\Debug\net6.0\refint\LastGrind.Application.dll
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Application\obj\Debug\net6.0\LastGrind.Application.pdb
+C:\Users\efend\source\repos\Backend\LastGrind\LastGrind.Application\obj\Debug\net6.0\ref\LastGrind.Application.dll
